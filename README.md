@@ -1,4 +1,4 @@
-### Hey 👋 I'm Jason Brooks and Welcome to my Github! (●'◡'●)
+## Hey 👋 I'm Jason Brooks and Welcome to my Github! (●'◡'●)
 
 - 👾 I'm an Engineering Graduate looking to transition into the software industry  
 - 💗 Currently focusing on frontend technologies: React/Nextjs
@@ -6,7 +6,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------
 
-# Future Endeavors:
+### Future Endeavors:
 
 - React Native
 - Node
