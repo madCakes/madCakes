@@ -8,12 +8,16 @@
 
 ### Future Endeavors:
 
+#### Technologies
+
 - React Native
 - Node
 - C# .NET
 - Python
 
+#### Personal
 
+- Make accessible educational content for programming and promote healthy learning practices to avoid burnout
 
 <!--
 **madCakes/madCakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
