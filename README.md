@@ -10,7 +10,7 @@
 
 #### Technologies
 
-- Python _in progress_
+- Python (_in progress_)
 - React Native
 - Node
 - C# .NET
