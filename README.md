@@ -3,7 +3,6 @@
 - 👾 I'm an Engineering Graduate looking to transition into the software industry  
 - 💗 Currently expanding to Full Stack as a Futureproof Trainee (Cyber Security/Dev Ops/Backend Development)
 - 🤖 I'm looking for work and to contribute to open source
-
 ---------------------------------------------------------------------------------------------------------------------
 ### Current Technologies
 
