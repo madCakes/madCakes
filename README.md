@@ -1,11 +1,20 @@
 ## Hey 👋 I'm Jason Brooks and Welcome to my Github! (●'◡'●)
 
 - 👾 I'm an Engineering Graduate looking to transition into the software industry  
-- 💗 Currently focusing on frontend technologies: React/Nextjs
+- 💗 Currently expanding to Full Stack as a Futureproof Trainee (Cyber Security/Dev Ops/Backend Development)
 - 🤖 I'm looking for work and to contribute to open source
 
 ---------------------------------------------------------------------------------------------------------------------
+### Current Technologies
 
+- JavaScript (React/Nextjs)
+- Node
+- Jest
+- Docker
+- SQL 
+- MongoDB
+- Python
+- 
 ### Future Endeavors:
 
 #### Technologies
