@@ -2,7 +2,7 @@
 
 - 👾 I'm an Engineering Graduate looking to transition into the software industry  
 - 💗 Graduate of Futureproof Full Stack Coding Academy (Cyber Security/Dev Ops/Backend Development)
-- 🤖 I'm looking for work and to contribute to open source
+- 🌏 Currently travelling 
 
 ---------------------------------------------------------------------------------------------------------------------
 ### Current Technologies
