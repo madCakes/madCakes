@@ -15,10 +15,11 @@
 - MongoDB
 - Python
 
-### Future Endeavors:
+### Future Endeavours:
 
 #### Technologies
 
+- C++
 - React Native
 - C# .NET
 
